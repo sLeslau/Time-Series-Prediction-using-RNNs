@@ -52,11 +52,16 @@ When $\tau \geq 17$ the system is chaotic in nature
 ### Evaluation and Results
 We see the results of the models on the Lorenz '63 dataset below
 #### LSTM
+![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/bfd46df1-8d9a-44a1-948f-de81312c47de)
+
 #### GRU
 ![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/3695b069-b327-4f04-807c-26676dea80f8)
 
 #### Transformer
+![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/38e0a22a-40fc-4a4d-b931-1e1858cbb2d1)
+
 #### RC-NVAR
+![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/761987db-eebf-4fc3-8f3a-115fc906f4e4)
 
 ### Repository Organization
 
