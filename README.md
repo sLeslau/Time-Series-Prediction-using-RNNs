@@ -19,19 +19,6 @@
     <a href="https://colab.research.google.com/github/sLeslau/Time-Series-Prediction-using-RNNs"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </h4>
 
-
-<p align="center">
-  <img src="https://taldatech.github.io/ddlp-web/assets/images/traffic_1_2601_1757_ddlp_all.gif" height="120">
-</p>
-<p align="center">
-  <img src="https://taldatech.github.io/ddlp-web/assets/images/phyre3.gif" height="120">
-  <img src="https://taldatech.github.io/ddlp-web/assets/images/traffic4.gif" height="120">
-</p>
-<p align="center">
-  <img src="https://taldatech.github.io/ddlp-web/assets/images/obj3d_ball_to_cube.gif" height="180">
-  <img src="https://taldatech.github.io/ddlp-web/assets/images/obj3d_green_ball_left.gif" height="180">
-</p>
-
 # DDLP: Unsupervised Object-centric Video Prediction with Deep Dynamic Latent Particles
 
 > **DDLP: Unsupervised Object-centric Video Prediction with Deep Dynamic Latent Particles**<br>
@@ -349,24 +336,6 @@ For your convenience, we provide more documentation in `/docs` and more examples
 
 | File name                                            | Content                                                                                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| `/checkpoints`                                       | directory for pre-trained checkpoints                                                       |
-| `/assets`                                            | directory containing sample images for the interactive GUI                                  |
-| `/datasets`                                          | directory containing data loading classes for the various datasets                          |
-| `/configs`                                           | directory containing config files for the various datasets                                  |
 | `/docs`                                              | various documentation files                                                                 |
 | `/notebooks`                                         | various Jupyter Notebook examples of DLPv2 and DDLP                                         |
-| `/eval/eval_model.py`                                | evaluation functions such as evaluating the ELBO                                            |
-| `/eval/eval_gen_metrics.py`                          | evaluation functions for image metrics (LPIPS, PSNR, SSIM)                                  |
-| `/modules/modules.py`                                | basic neural network blocks used to implement the (D)DLP model                              |
-| `/modules/dynamic_modules.py`                        | basic neural network blocks used to implement the transformer-based dynamics module (PINT)  |
-| `/modules/diffusion_modules.py`                      | basic neural network blocks used to implement the DiffuseDDLP model                         |
-| `/utils/loss_functions.py`                           | loss functions used to optimize the model such as Chamfer-KL and perceptual (VGG) loss      |
-| `/utils/util_func.py`                                | utility functions such as logging and plotting functions, Spatial Transformer Network (STN) |
-| `models.py`                                          | implementation of DLPv2 and DDLP models                                                     |
-| `train_dlp.py`/`train_ddlp.py`                       | training function of (D)DLP for single-GPU machines                                         |
-| `train_dlp_accelerate.py`/`train_ddlp_accelerate.py` | training function of (D)DLP for multi-GPU machines                                          |
-| `train_diffuse_ddlp.py`                              | training function of DifufseDDLP for single-GPU machines                                    | |
-| `interactive_gui.py`                                 | `tkinter`-based interactive GUI to plot and interact with learned particles                 |
 | `environment.yml`                                    | Anaconda environment file to install the required dependencies                              |
-| `requirements.txt`                                   | requirements file for `pip`                                                                 |
-| `accel_conf.yml`                                     | configuration file for `accelerate` to run training on multiple GPUs                        |
