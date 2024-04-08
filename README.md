@@ -5,7 +5,7 @@
   <br>
 </h1>
   <h3 align="center">
-    <a href="https://taldatech.github.io">Tal Daniel</a> •
+    <a href="https://github.com/sLeslau">Shaked Leslau</a> •
     <a href="https://github.com/rishonadaniels">Rishona Daniels</a>
 
   </h3>
