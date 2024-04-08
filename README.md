@@ -50,7 +50,13 @@ Here, $\beta = 0.2, \gamma = 0.1, \eta = 10, \tau = 17$
 When $\tau \geq 17$ the system is chaotic in nature
 
 ### Evaluation and Results
+We see the results of the models on the Lorenz '63 dataset below
+#### LSTM
+#### GRU
+![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/3695b069-b327-4f04-807c-26676dea80f8)
 
+#### Transformer
+#### RC-NVAR
 
 ### Repository Organization
 
