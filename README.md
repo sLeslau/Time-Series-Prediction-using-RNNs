@@ -32,13 +32,22 @@ The datasets used are two differential equation systems that exhibit determinist
 ### Lorenz - 63 system
 
 $$\frac{dx}{dt} = 10(y - x)$$
-\[\frac{dy}{dt} = x(28 - z) \]
-\[\frac{dx}{dt} = xy - \frac{8z}{3}\]
+$$\frac{dy}{dt} = x(28 - z) $$
+$$\frac{dx}{dt} = xy - \frac{8z}{3}$$
 
 Here, the lyapunov time is 1.1 time units 
 
 ### Mackey-Glass equations
 
+$$\frac{dx}{dt} = \beta \frac{x_\tau}{1 + x_\tau ^ \eta} - \gamma x$$
+
+where $\gamma, \beta\) and \(\eta > 0$
+
+Here, \(\beta, \gamma, \tau \) and \(\eta\) are real numbers and \(x_\tau\) is the value of \(x\) at time \((t-\tau)\)
+
+Here, \(\beta = 0.2\), \(\gamma = 0.1\), \(\eta = 10\) and \(\tau = 17\)
+
+When \(\tau \geq 17\) the system is chaotic in nature
 ## Evaluation
 
 ## Repository Organization
