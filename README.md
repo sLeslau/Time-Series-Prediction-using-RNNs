@@ -336,6 +336,5 @@ For your convenience, we provide more documentation in `/docs` and more examples
 
 | File name                                            | Content                                                                                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| `/docs`                                              | various documentation files                                                                 |
 | `/notebooks`                                         | various Jupyter Notebook examples of DLPv2 and DDLP                                         |
 | `environment.yml`                                    | Anaconda environment file to install the required dependencies                              |
