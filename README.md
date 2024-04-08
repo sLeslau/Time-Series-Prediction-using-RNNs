@@ -53,7 +53,7 @@ When $\tau \geq 17$ the system is chaotic in nature
 
 ### Evaluation and Results
 We used PyTorch toolbox to implement the LSTM, GRU, and transformer. For NVAR, we
-using the implementation given in [1]. They have implemented NVAR using Numpy and
+using the implementation provided. They have implemented NVAR using Numpy and
 their implementations are in their GitHub repository. To provide a valid comparison, we
 needed to maintain consistency across the data sets, models, and loss functions. We trained
 each model on the generated Lorenz 63’ dataset which we normalized, and tested it on the
