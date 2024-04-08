@@ -1,9 +1,9 @@
 # Time-Series-Prediction-using-RNNs
 
-[TMLR 2024] Official PyTorch implementation of the paper "DDLP: Unsupervised Object-centric Video Prediction with Deep Dynamic Latent
-Particles".
+Final Project for Technion 046211 Deep Learning Course.
+We will compare various recurrent neural networks (RNNs) for prediction of dynamic and chaotic time series data. RNNs like long short-term memory (LSTM), gated recurrent unit (GRU) and transformers will be compared with each other and with a novel RNN method called reservoir computing
 
-
+See this paper for reference: https://github.com/quantinfo/ng-rc-paper-code/tree/master
 <h1 align="center">
   <br>
 	[TMLR 2024] DDLP: Unsupervised Object-centric Video Prediction with<br> Deep Dynamic Latent Particles
