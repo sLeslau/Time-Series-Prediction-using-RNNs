@@ -15,10 +15,8 @@
 
 See this paper for reference: https://github.com/quantinfo/ng-rc-paper-code/tree/master</h4>
 
-<h4 align="center"><a href="https://taldatech.github.io/ddlp-web">Project Website</a> • <a href="https://www.youtube.com/watch?v=3S2pKhi_ewY">Video</a> • <a href="https://openreview.net/forum?id=Wqn8zirthg">OpenReview</a></h4> 
-
 <h4 align="center">
-    <a href="https://colab.research.google.com/github/taldatech/ddlp"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/github/sLeslau/Time-Series-Prediction-using-RNNs"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </h4>
 
 
