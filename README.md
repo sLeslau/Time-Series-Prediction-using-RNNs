@@ -25,15 +25,12 @@ Weather forecasting stations will be able to use these methods to model and pred
 Organizations trading stocks can make decisions based on the predictions of these models 
 An ethical consideration is that these models can be used for deterministic chaotic systems. Real-world systems may not be deterministic so care must be taken when designing these models. Also, the reliability of these models must be thoroughly evaluated before deployment in real-world applications especially considering the systems in question are sensitive to initial conditions. 
 
-## Data
-The goal of this project is to compare various recurrent neural networks (RNNs) for the prediction of dynamic and chaotic time series data.
+## Project
 A comparison will be made between two standard RNN models namely long-short term memory (LSTM), gated recurrent unit (GRU) as well as a novel RNN model called non-linear vector autoregression (NVAR) also known as reservoir computing. The attention-based transformer model will also be compared on time series data. 
 
 The datasets used are two differential equation systems that exhibit deterministic chaos. 
-\begin{enumerate}
-    \item Lorenz - 63 system
-    \item Mackey-Glass equations 
-\end{enumerate}
+### Lorenz - 63 system
+### Mackey-Glass equations 
 
 \subsubsection{Lorenz-63 system}
 
