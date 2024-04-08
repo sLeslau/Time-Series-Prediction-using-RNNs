@@ -20,6 +20,11 @@
 </h4>
 
 ## Motivation
+The stakeholders of this project include weather forecasting stations, organizations trading stocks, etc. 
+Weather forecasting stations will be able to use these methods to model and predict the weather forecast using observed time-series data. 
+Organizations trading stocks can make decisions based on the predictions of these models 
+An ethical consideration is that these models can be used for deterministic chaotic systems. Real-world systems may not be deterministic so care must be taken when designing these models. Also, the reliability of these models must be thoroughly evaluated before deployment in real-world applications especially considering the systems in question are sensitive to initial conditions. 
+
 ## Models
 ## Method
 ## Evaluation
