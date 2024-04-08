@@ -29,7 +29,7 @@ An ethical consideration is that these models can be used for deterministic chao
 A comparison will be made between two standard RNN models namely long-short term memory (LSTM), gated recurrent unit (GRU) as well as a novel RNN model called non-linear vector autoregression (NVAR) also known as reservoir computing. The attention-based transformer model will also be compared on time series data. 
 
 The datasets used are two differential equation systems that exhibit deterministic chaos. 
-### Lorenz - 63 system
+#### Lorenz - 63 system
 
 $$\frac{dx}{dt} = 10(y - x)$$
 $$\frac{dy}{dt} = x(28 - z) $$
@@ -37,10 +37,7 @@ $$\frac{dx}{dt} = xy - \frac{8z}{3}$$
 
 Here, the lyapunov time is 1.1 time units 
 
-![gtruth lor](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/74e1ddaf-a7bf-480e-b9e8-15883c2b3bf4)
-
-
-### Mackey-Glass equations
+#### Mackey-Glass equations
 
 $$\frac{dx}{dt} = \beta \frac{x_\tau}{1 + x_\tau ^ \eta} - \gamma x$$
 
@@ -52,9 +49,10 @@ Here, $\beta = 0.2, \gamma = 0.1, \eta = 10, \tau = 17$
 
 When $\tau \geq 17$ the system is chaotic in nature
 
-## Evaluation
+### Evaluation and Results
 
-## Repository Organization
+
+### Repository Organization
 
 | File name                                            | Content                                                                                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------|
