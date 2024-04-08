@@ -41,9 +41,9 @@ Here, the lyapunov time is 1.1 time units
 
 $$\frac{dx}{dt} = \beta \frac{x_\tau}{1 + x_\tau ^ \eta} - \gamma x$$
 
-where $\gamma, \beta, $and$ \eta > 0$
+where $\gamma, \beta, $ and $ \eta > 0$
 
-Here, $\beta, \gamma, \tau, $ and $ \eta$ are real numbers and $x_\tau$ is the value of $x$ at time $(t-\tau)$
+Here, $\beta, \gamma, \tau, $ and $ \eta $ are real numbers and $x_\tau$ is the value of $x$ at time $(t-\tau)$
 
 Here, $\beta = 0.2, \gamma = 0.1, \eta = 10, $ and $\tau = 17$
 
