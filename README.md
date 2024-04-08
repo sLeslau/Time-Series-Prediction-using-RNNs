@@ -82,6 +82,11 @@ We see the results of the models on the Lorenz '63 dataset below
 #### RC-NVAR
 ![image](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/761987db-eebf-4fc3-8f3a-115fc906f4e4)
 
+### Conclusion and Future Work
+To conclude, NVAR is the best-in-class method for chaotic time-series prediction as it does not require any random weight initialization. It requires shorter training time, lower error and can predict the trajectory of the sequence for longer time with better accuracy as compared to other models. 
+NVAR method was able to outperform the attention based transformer model as well. 
+Future work includes implementation of the Mackey-Glass equations. More recent models like RKWV and MAMBA-SSM can also be compared to assess their performance. 
+
 ### Repository Organization
 
 | File name                                            | Content                                                                                     |
