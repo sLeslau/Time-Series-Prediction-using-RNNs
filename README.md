@@ -37,6 +37,9 @@ $$\frac{dx}{dt} = xy - \frac{8z}{3}$$
 
 Here, the lyapunov time is 1.1 time units 
 
+![gtruth lor](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs/assets/64160899/74e1ddaf-a7bf-480e-b9e8-15883c2b3bf4)
+
+
 ### Mackey-Glass equations
 
 $$\frac{dx}{dt} = \beta \frac{x_\tau}{1 + x_\tau ^ \eta} - \gamma x$$
