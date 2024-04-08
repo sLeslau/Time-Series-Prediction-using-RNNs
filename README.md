@@ -45,7 +45,7 @@ where $\gamma, \beta, \eta > 0$
 
 Here, $\beta, \gamma, \tau, \eta$ are real numbers and $x_\tau$ is the value of $x$ at time $(t-\tau)$
 
-Here, $\beta = 0.2, \gamma = 0.1, \eta = 10, $ and $\tau = 17$
+Here, $\beta = 0.2, \gamma = 0.1, \eta = 10, \tau = 17$
 
 When $\tau \geq 17$ the system is chaotic in nature
 
