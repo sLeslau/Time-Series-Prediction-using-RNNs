@@ -1,0 +1,22 @@
+name: deep_learn
+channels:
+  - pytorch
+  - nvidia
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - notebook
+  - numpy
+  - opencv
+  - pandas
+  - pip
+  - plotly
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tqdm
+  - pip:
+      - optuna
