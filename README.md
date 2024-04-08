@@ -31,7 +31,7 @@ A comparison will be made between two standard RNN models namely long-short term
 The datasets used are two differential equation systems that exhibit deterministic chaos. 
 ### Lorenz - 63 system
 
-$$frac{dx}{dt} = 10(y - x)$$
+$$ \frac{dx}{dt} = 10(y - x)$$
 \[\frac{dy}{dt} = x(28 - z) \]
 \[\frac{dx}{dt} = xy - \frac{8z}{3}\]
 
