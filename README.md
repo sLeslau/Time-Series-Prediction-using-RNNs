@@ -1,12 +1,7 @@
-# Time-Series-Prediction-using-RNNs
 
-Final Project for Technion 046211 Deep Learning Course.
-We will compare various recurrent neural networks (RNNs) for prediction of dynamic and chaotic time series data. RNNs like long short-term memory (LSTM), gated recurrent unit (GRU) and transformers will be compared with each other and with a novel RNN method called reservoir computing
-
-See this paper for reference: https://github.com/quantinfo/ng-rc-paper-code/tree/master
 <h1 align="center">
   <br>
-	[TMLR 2024] DDLP: Unsupervised Object-centric Video Prediction with<br> Deep Dynamic Latent Particles
+	Time-Series-Prediction-using-RNNs
   <br>
 </h1>
   <h3 align="center">
@@ -14,9 +9,11 @@ See this paper for reference: https://github.com/quantinfo/ng-rc-paper-code/tree
     <a href="https://avivt.github.io/avivt/">Aviv Tamar</a>
 
   </h3>
-<h3 align="center">Official repository of DLPv2, DDLP and DiffuseDDLP</h3>
+<h3 align="center">Final Project for Technion 046211 Deep Learning Course.
 
-<h4 align="center">Transactions on Machine Learning Research 2024</h4>
+<h4 align="center">We compare various recurrent neural networks (RNNs) for prediction of dynamic and chaotic time series data. RNNs like long short-term memory (LSTM), gated recurrent unit (GRU) and transformers will be compared with each other and with a novel RNN method called reservoir computing
+
+See this paper for reference: https://github.com/quantinfo/ng-rc-paper-code/tree/master</h4>
 
 <h4 align="center"><a href="https://taldatech.github.io/ddlp-web">Project Website</a> • <a href="https://www.youtube.com/watch?v=3S2pKhi_ewY">Video</a> • <a href="https://openreview.net/forum?id=Wqn8zirthg">OpenReview</a></h4> 
 
