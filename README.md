@@ -6,7 +6,7 @@
 </h1>
   <h3 align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
-    <a href="https://avivt.github.io/avivt/">Aviv Tamar</a>
+    <a href="https://github.com/rishonadaniels">Rishona Daniels</a>
 
   </h3>
 <h3 align="center">Final Project for Technion 046211 Deep Learning Course.
