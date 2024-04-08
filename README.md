@@ -9,7 +9,7 @@
     <a href="https://github.com/rishonadaniels">Rishona Daniels</a>
 
   </h3>
-<h3 align="center">Final Project for Technion 046211 Deep Learning Course.
+<h3 align="center">Technion 046211: Deep Learning Course Final Project
 
 <h4 align="center">We compare various recurrent neural networks (RNNs) for prediction of dynamic and chaotic time series data. RNNs like long short-term memory (LSTM), gated recurrent unit (GRU) and transformers will be compared with each other and with a novel RNN method called reservoir computing</h4>
 
